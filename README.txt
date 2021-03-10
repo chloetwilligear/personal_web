@@ -11,7 +11,7 @@ https://chloetwilligear.github.io/personal_web/
 
 Any feedback or suggestions are more than welcomed. As I continue to grow as a software developer, criticism is what helps me to improve. 
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------
 
 Credits:
 
