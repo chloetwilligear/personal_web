@@ -1,4 +1,17 @@
-##My Personal Website
+# My Personal Website
+
+This is my first portfolio website! It is a ongoing project, with lots of changes and new features to be added soon.
+As for right now, it is available to preview! Hope you like it :)
+
+## LINK
+
+https://chloetwilligear.github.io/personal_web/
+
+## FEEDBACK
+
+Any feedback or suggestions are more than welcomed. As I continue to grow as a software developer, criticism is what helps me to improve. 
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Credits:
 
